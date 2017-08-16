@@ -12,9 +12,59 @@ namespace PJ1_16._08._17
 {
     public partial class Form1 : Form
     {
+        Random rand = new Random();
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+            int n = rand.Next(0, 2);
+            if (n == 0)
+                button1.Text = "Mina";
+
+            else
+                button1.Text = "Limpa";
+
+            button1.Enabled = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int n = rand.Next(0, 2);
+            if (n == 0)
+                button2.Text = "Mina";
+
+            else
+                button2.Text = "Limpa";
+
+            button2.Enabled = false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int n = rand.Next(0, 2);
+            if (n == 0)
+                button3.Text = "Mina";
+
+            else
+                button3.Text = "Limpa";
+
+            button3.Enabled = false;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int n = rand.Next(0, 2);
+            if (n == 0)
+                button4.Text = "Mina";
+
+            else
+                button4.Text = "Limpa";
+
+            button4.Enabled = false;
         }
     }
 }

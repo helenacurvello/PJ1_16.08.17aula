@@ -1,1 +1,10 @@
 c:\users\helena.silva\documents\visual studio 2015\Projects\PJ1_16.08.17\PJ1_16.08.17\bin\Debug\PJ1_16.08.17.exe.config
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\bin\Debug\PJ1_16.08.17.exe.config
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\bin\Debug\PJ1_16.08.17.exe
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\bin\Debug\PJ1_16.08.17.pdb
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16.08.17.csprojResolveAssemblyReference.cache
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16._08._17.Form1.resources
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16._08._17.Properties.Resources.resources
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16.08.17.csproj.GenerateResource.Cache
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16.08.17.exe
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16.08.17.pdb
