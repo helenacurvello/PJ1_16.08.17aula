@@ -8,3 +8,4 @@ C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1
 C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16.08.17.csproj.GenerateResource.Cache
 C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16.08.17.exe
 C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16.08.17.pdb
+C:\Users\helena.silva\Desktop\GitHub\PJ1_16.08.17aula\PJ1_16.08.17\obj\Debug\PJ1_16._08._17.Form2.resources

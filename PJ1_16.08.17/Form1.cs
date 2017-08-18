@@ -41,6 +41,8 @@ namespace PJ1_16._08._17
                 button2.Text = "Limpa";
 
             button2.Enabled = false;
+
+            new Form2().ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -65,6 +67,17 @@ namespace PJ1_16._08._17
                 button4.Text = "Limpa";
 
             button4.Enabled = false;
+        }
+
+        private void rapaziadaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button1.Text = "OEEE GENTE";
+            
+        }
+
+        private void fLAMENGOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            button1.BackColor = Color.Black;
         }
     }
 }
