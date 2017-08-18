@@ -65,6 +65,7 @@
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.sobreOBlocoDeNotasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -276,6 +277,7 @@
             this.fonteToolStripMenuItem.Name = "fonteToolStripMenuItem";
             this.fonteToolStripMenuItem.Size = new System.Drawing.Size(221, 22);
             this.fonteToolStripMenuItem.Text = "Fonte...";
+            this.fonteToolStripMenuItem.Click += new System.EventHandler(this.fonteToolStripMenuItem_Click);
             // 
             // exibirToolStripMenuItem
             // 
@@ -386,5 +388,6 @@
         private System.Windows.Forms.ToolStripMenuItem exibirAjudaToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
         private System.Windows.Forms.ToolStripMenuItem sobreOBlocoDeNotasToolStripMenuItem;
+        private System.Windows.Forms.FontDialog fontDialog1;
     }
 }

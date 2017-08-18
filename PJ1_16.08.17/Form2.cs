@@ -20,7 +20,7 @@ namespace PJ1_16._08._17
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            Text = "Esreva aqui";
+            
         }
 
         private void novoDocumentoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -41,6 +41,13 @@ namespace PJ1_16._08._17
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void fonteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fontDialog1.Font = textBox1.Font;
+            fontDialog1.ShowDialog(this);
+            textBox1.Font = fontDialog1.Font;
         }
     }
 }
