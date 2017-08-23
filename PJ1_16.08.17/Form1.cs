@@ -79,5 +79,15 @@ namespace PJ1_16._08._17
         {
             button1.BackColor = Color.Black;
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            comboBoxLabel.Text = comboBox1.Text;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
