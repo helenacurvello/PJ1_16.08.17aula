@@ -62,7 +62,7 @@ namespace PJ1_16._08._17
                 dano = 0;
 
             if (dano > 100)
-                dano = 1100;
+                dano = 100;
 
             label1.Text = dano.ToString();
         }
