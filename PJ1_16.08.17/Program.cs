@@ -16,7 +16,7 @@ namespace PJ1_16._08._17
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new AV2());
         }
     }
 }
